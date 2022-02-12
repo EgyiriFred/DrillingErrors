@@ -40,7 +40,6 @@ ID	Type	XYerror
 39	Layout	0.272358383
 40	Layout	0.295130615
 41	Layout	0.223847443
-42	Layout	0.201049062
 1	Drilling	0.354042947
 2	Drilling	1.654021173
 3	Drilling	0.259513638
@@ -82,5 +81,5 @@ ID	Type	XYerror
 39	Drilling	0.543562286
 40	Drilling	0.05305475
 41	Drilling	0.499825185
-42	Drilling	0.357498442
+
 		
